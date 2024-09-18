@@ -41,6 +41,8 @@ import objects.BGSprite;
 
 import states.PlayState;
 import states.LoadingState;
+import Paths;
+import mobile.SUtil;
 
 #if flxanimate
 import flxanimate.*;
