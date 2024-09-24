@@ -1,4 +1,4 @@
-# Friday Night Funkin' - P-Slice Engine
+# Friday Night Funkin' - P-Slice Engine Mobile
 This engine was originally meant to be a playground for making Psych Engine compatible with linux, but after some attempts in porting V-Slice content became a crossover between Psych Engine and V-Slice (also known as base game).
 
 # Features
